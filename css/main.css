@@ -145,3 +145,7 @@ footer a:not(.nav-link) {
 .bg-chill{
   background-color: #464D54;
 }
+
+.label-color-chill{
+  color:#F3F9FB;
+}
